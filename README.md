@@ -1,4 +1,4 @@
-# 机器学习精品课 :link: https://li331368859.github.io/zcst.github.io 
+# Python数据分析技术课程 :link: https://li331368859.github.io/zcst.github.io 
 ### :page_facing_up: [2](https://li331368859.github.io/zcst.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 444 
